@@ -9,6 +9,7 @@ export class HolaMundoComponent implements OnInit {
 
   title = 'Welcome to Angular'
   subtitle = 'This is a Test'
+  image = "/assets/yo_pc.png"
   
   constructor() { }
 
